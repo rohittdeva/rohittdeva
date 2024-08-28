@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohittdeva
 - 👀 I’m interested in Web Development , Data Analytics
-- 🌱 I’m currently learning React, Tableau, Excel...
+- 🌱 I’m currently pursuing Masters in Computer Science @ University of Madras...
 - 📫 How to reach me rohittdevaraj1092@gmail.com
 
 <!---
