@@ -15,7 +15,7 @@
 - 🎯 Passionate about solving real-world problems with data  
 - 🛠️ Skilled in **Python, SQL, TensorFlow, scikit-learn, Pandas, Power BI, Django, React**
 - 📊 Enthusiastic about building dashboards, intelligent apps & automation tools  
-- 🔭 Currently exploring data pipelines, real-time dashboards, and AI apps  
+- 🔭 Currently exploring real-time dashboards, and AI apps  
 - 🌱 Always learning — check out my projects below!
 
 ---
